@@ -33,7 +33,7 @@ jobs:
           # Databricks token
           databricks-token: dapie6eb51610c937c82b88d0a49edb5ad64-3
           # LOCAL_NOTEBOOKS_PATH
-          local-path: /home/runner/work/DataBricks-CICD
+          local-path: /home/runner/work/DataBricks-CICD/DataBricks-CICD
           # REMOTE_NOTEBOOK_PATH
           remote-path: /Workspace/Users/lknovember2022@gmail.com/2ndtest
           
